@@ -5,6 +5,10 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  wizard_houses = {"Harry Potter" => "Gryffindor", 
+  "Draco Malfoy" => "Slytherin"
+  }
+  wizard_houses["Draco Malfoy"]
 end
 
 def pioneer
